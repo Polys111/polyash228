@@ -1,70 +1,70 @@
 @import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200;300;400;500;600;700;800&display=swap');
 *{
-    margin: 0;
-    padding: 0;
-    font-family: 'Manrope', sans-serif;
+    margin:0;
+    padding:0;
+    font-family:'Manrope', sans-serif;
 }
 :root {
-    color-scheme: dark;
+    color-scheme:dark;
 }
 body{
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    display:flex;
+    justify-content:center;
+    align-items:center;
 }
 .block1{
-    width: 70vw;
+    width:70vw;
     background-color:black;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    flex-direction:column;
 }
 img{
-    width: 420px;
-    height: 416px;
+    width:420px;
+    height:416px;
 }
 h1{
-    font-size: 56px;
-    font-weight: 600;
+    font-size:56px;
+    font-weight:600;
     color:whitesmoke;
-    text-align: center;
-    margin: 10px 0 45px 0;
+    text-align:center;
+    margin:10px 0 45px 0;
 }
 p{
-    font-size: 25px;
-    font-weight: 300;
-    color: whitesmoke;
-    text-align: justify;
-    width: 700px;
+    font-size:25px;
+    font-weight:300;
+    color:whitesmoke;
+    text-align:justify;
+    width:700px;
 }
 .a-block1{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin: 50px 0 20px 0;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    margin:50px 0 20px 0;
 }
 .a1-block1{
-    text-decoration: none;
-    font-size: 25px;
-    font-weight: 600;
+    text-decoration:none;
+    font-size:25px;
+    font-weight:600;
     color:whitesmoke;
-    text-align: center;
+    text-align:center;
     padding: 15px 40px;
-    background-color: transparent;
-    border-radius: 50px;
-    border: 2px solid whitesmoke;
-    width: 70px;
-    margin: 0 10px;
+    background-color:transparent;
+    border-radius:50px;
+    border:2px solid whitesmoke;
+    width:70px;
+    margin:0 10px;
 }
 .a2-block1{
-    text-decoration: none;
-    font-size: 25px;
-    font-weight: 600;
+    text-decoration:none;
+    font-size:25px;
+    font-weight:600;
     color:whitesmoke;
-    text-align: center;
-    padding: 15px 40px;
-    background-color: #1F45FC;
-    border-radius: 50px;
-    border: 1px solid #6e6e6e;
+    text-align:center;
+    padding:15px 40px;
+    background-color:#1F45FC;
+    border-radius:50px;
+    border:1px solid #6e6e6e;
 }
